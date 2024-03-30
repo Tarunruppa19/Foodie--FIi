@@ -1,4 +1,5 @@
 #Foodie-fi dataset
+
 CREATE SCHEMA foodie_fi;
 SET search_path = foodie_fi;
 
